@@ -8,6 +8,7 @@ requests = "*"
 pandas = "*"
 scikit-learn = "*"
 jupyter = "*"
+numpy = "*"
 
 [dev-packages]
 
